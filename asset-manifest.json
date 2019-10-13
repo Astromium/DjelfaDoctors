@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Djelfa-Doctors/static/css/main.f408c272.chunk.css",
-    "main.js": "/Djelfa-Doctors/static/js/main.6bee6f50.chunk.js",
-    "main.js.map": "/Djelfa-Doctors/static/js/main.6bee6f50.chunk.js.map",
+    "main.js": "/Djelfa-Doctors/static/js/main.16c1f233.chunk.js",
+    "main.js.map": "/Djelfa-Doctors/static/js/main.16c1f233.chunk.js.map",
     "runtime-main.js": "/Djelfa-Doctors/static/js/runtime-main.b0cff466.js",
     "runtime-main.js.map": "/Djelfa-Doctors/static/js/runtime-main.b0cff466.js.map",
     "static/js/2.50853506.chunk.js": "/Djelfa-Doctors/static/js/2.50853506.chunk.js",
     "static/js/2.50853506.chunk.js.map": "/Djelfa-Doctors/static/js/2.50853506.chunk.js.map",
     "index.html": "/Djelfa-Doctors/index.html",
-    "precache-manifest.2eac3a6995f3557941385203c30ad7b8.js": "/Djelfa-Doctors/precache-manifest.2eac3a6995f3557941385203c30ad7b8.js",
+    "precache-manifest.1ac35fc7344ed7003e3d9316005f2cfd.js": "/Djelfa-Doctors/precache-manifest.1ac35fc7344ed7003e3d9316005f2cfd.js",
     "service-worker.js": "/Djelfa-Doctors/service-worker.js",
     "static/css/main.f408c272.chunk.css.map": "/Djelfa-Doctors/static/css/main.f408c272.chunk.css.map",
     "static/media/bones.png": "/Djelfa-Doctors/static/media/bones.499b1b31.png",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.b0cff466.js",
     "static/js/2.50853506.chunk.js",
     "static/css/main.f408c272.chunk.css",
-    "static/js/main.6bee6f50.chunk.js"
+    "static/js/main.16c1f233.chunk.js"
   ]
 }

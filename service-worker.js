@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Djelfa-Doctors/precache-manifest.2eac3a6995f3557941385203c30ad7b8.js"
+  "/Djelfa-Doctors/precache-manifest.1ac35fc7344ed7003e3d9316005f2cfd.js"
 );
 
 self.addEventListener('message', (event) => {

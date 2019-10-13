@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "492a8378b5471b0fe2dabbb984ca575e",
+    "revision": "166a2accef0036715479c6fbb4de232b",
     "url": "/Djelfa-Doctors/index.html"
   },
   {
-    "revision": "ffec9421f4ecc6dfa597",
+    "revision": "751ab255167da0aa5876",
     "url": "/Djelfa-Doctors/static/css/main.f408c272.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Djelfa-Doctors/static/js/2.50853506.chunk.js"
   },
   {
-    "revision": "ffec9421f4ecc6dfa597",
-    "url": "/Djelfa-Doctors/static/js/main.6bee6f50.chunk.js"
+    "revision": "751ab255167da0aa5876",
+    "url": "/Djelfa-Doctors/static/js/main.16c1f233.chunk.js"
   },
   {
     "revision": "4b1aac343bede2204d5b",
