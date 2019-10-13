@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Djelfa-Doctors/static/css/main.f408c272.chunk.css",
+    "main.js": "/Djelfa-Doctors/static/js/main.6bee6f50.chunk.js",
+    "main.js.map": "/Djelfa-Doctors/static/js/main.6bee6f50.chunk.js.map",
+    "runtime-main.js": "/Djelfa-Doctors/static/js/runtime-main.b0cff466.js",
+    "runtime-main.js.map": "/Djelfa-Doctors/static/js/runtime-main.b0cff466.js.map",
+    "static/js/2.50853506.chunk.js": "/Djelfa-Doctors/static/js/2.50853506.chunk.js",
+    "static/js/2.50853506.chunk.js.map": "/Djelfa-Doctors/static/js/2.50853506.chunk.js.map",
+    "index.html": "/Djelfa-Doctors/index.html",
+    "precache-manifest.2eac3a6995f3557941385203c30ad7b8.js": "/Djelfa-Doctors/precache-manifest.2eac3a6995f3557941385203c30ad7b8.js",
+    "service-worker.js": "/Djelfa-Doctors/service-worker.js",
+    "static/css/main.f408c272.chunk.css.map": "/Djelfa-Doctors/static/css/main.f408c272.chunk.css.map",
+    "static/media/bones.png": "/Djelfa-Doctors/static/media/bones.499b1b31.png",
+    "static/media/cardio.jpg": "/Djelfa-Doctors/static/media/cardio.3ac0b765.jpg",
+    "static/media/chest.png": "/Djelfa-Doctors/static/media/chest.db7ffa64.png",
+    "static/media/cologue.jpg": "/Djelfa-Doctors/static/media/cologue.f2fb2b51.jpg",
+    "static/media/dentist.jpg": "/Djelfa-Doctors/static/media/dentist.7dfc2211.jpg",
+    "static/media/derma.jpg": "/Djelfa-Doctors/static/media/derma.c4555ddc.jpg",
+    "static/media/eye.png": "/Djelfa-Doctors/static/media/eye.df6005c4.png",
+    "static/media/internals.jpg": "/Djelfa-Doctors/static/media/internals.ca3a6ed8.jpg",
+    "static/media/neuro.jpg": "/Djelfa-Doctors/static/media/neuro.6c581ec1.jpg",
+    "static/media/orl.png": "/Djelfa-Doctors/static/media/orl.ed20bcee.png",
+    "static/media/pediatre.png": "/Djelfa-Doctors/static/media/pediatre.c915d243.png",
+    "static/media/sugar.png": "/Djelfa-Doctors/static/media/sugar.d186816f.png",
+    "static/media/surgeon.png": "/Djelfa-Doctors/static/media/surgeon.bc4dd336.png",
+    "static/media/undraw_medicine_b1ol.svg": "/Djelfa-Doctors/static/media/undraw_medicine_b1ol.3ed79f1b.svg",
+    "static/media/urologie.jpg": "/Djelfa-Doctors/static/media/urologie.c2ef9089.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0cff466.js",
+    "static/js/2.50853506.chunk.js",
+    "static/css/main.f408c272.chunk.css",
+    "static/js/main.6bee6f50.chunk.js"
+  ]
+}
