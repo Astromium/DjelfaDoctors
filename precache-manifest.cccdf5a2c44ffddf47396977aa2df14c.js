@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "166a2accef0036715479c6fbb4de232b",
+    "revision": "8eda3433b0ce124d416c4af5d57aa3b0",
     "url": "/Djelfa-Doctors/index.html"
   },
   {
